@@ -1,0 +1,8 @@
+# https://packifycustomboxes.com robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://packifycustomboxes.com/sitemap.xml
